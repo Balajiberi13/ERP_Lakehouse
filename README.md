@@ -1,8 +1,5 @@
 # Multi-ERP Enterprise Data Lakehouse on Azure Databricks
 
-[![Azure Certified](https://img.shields.io/badge/Azure-DP--600%20%7C%20DP--700-blue?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/data-engineer/)
-[![Databricks](https://img.shields.io/badge/Powered%20by-Databricks-Red?logo=databricks&logoColor=white)](https://databricks.com/)
-
 ## 📌 Project Overview
 In modern manufacturing enterprises, data is fragmented across multiple disparate ERP (Enterprise Resource Planning) systems. This project implements a unified, scalable **Data Lakehouse Architecture** using **Azure Databricks** and **Delta Lake** to ingest, process, and model data from multiple manufacturing ERP systems. 
 
